@@ -1,3 +1,5 @@
 streamlit
-pyspark
 pandas
+scikit-learn
+matplotlib
+seaborn
